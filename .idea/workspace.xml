@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71be66ec-8b76-456a-9c22-1d62133c5fbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XllojnDpnKsfRBoHQJvZC8Rzuq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.shopShoes">
+    <configuration name="shopShoes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.shopShoes" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shopShoes.OrdenarProductosNombre" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.shopShoes" />
+      <option name="METHOD_NAME" value="OrdenarProductosNombre" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shopShoes.numberResults" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.shopShoes" />
+      <option name="METHOD_NAME" value="numberResults" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shopShoes.shoeSize" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.shopShoes" />
+      <option name="METHOD_NAME" value="shoeSize" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shopShoes.sortByAscendingPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.shopShoes" />
+      <option name="METHOD_NAME" value="sortByAscendingPrice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.shopShoes" />
+        <item itemvalue="TestNG.shopShoes.OrdenarProductosNombre" />
+        <item itemvalue="TestNG.shopShoes.sortByAscendingPrice" />
+        <item itemvalue="TestNG.shopShoes.numberResults" />
+        <item itemvalue="TestNG.shopShoes.shoeSize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71be66ec-8b76-456a-9c22-1d62133c5fbe" name="Default Changelist" comment="" />
+      <created>1581628739763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581628739763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1581629335614">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1581629335614" />
+    <state x="611" y="206" key="FileChooserDialogImpl" timestamp="1581696168188">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="611" y="206" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1581696168188" />
+    <state width="1495" height="330" key="GridCell.Tab.0.bottom" timestamp="1581699789137">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581631420662" />
+    <state width="1495" height="330" key="GridCell.Tab.0.bottom/62.0.1538.900@62.0.1538.900" timestamp="1581699789137" />
+    <state width="1495" height="330" key="GridCell.Tab.0.center" timestamp="1581699789137">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1581631420662" />
+    <state width="1495" height="330" key="GridCell.Tab.0.center/62.0.1538.900@62.0.1538.900" timestamp="1581699789137" />
+    <state width="1495" height="330" key="GridCell.Tab.0.left" timestamp="1581699789137">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1581631420662" />
+    <state width="1495" height="330" key="GridCell.Tab.0.left/62.0.1538.900@62.0.1538.900" timestamp="1581699789137" />
+    <state width="1495" height="330" key="GridCell.Tab.0.right" timestamp="1581699789137">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1581631420662" />
+    <state width="1495" height="330" key="GridCell.Tab.0.right/62.0.1538.900@62.0.1538.900" timestamp="1581699789137" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1581628757253">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1581628757253" />
+  </component>
+</project>
